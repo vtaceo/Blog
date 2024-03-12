@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel on Random Life Chronicles</title>
+    <link>http://localhost:1313/categories/travel/</link>
+    <description>Recent content in Travel on Random Life Chronicles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Feb 2024 15:38:57 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Fourth Post</title>
+      <link>http://localhost:1313/my-fourth-post/</link>
+      <pubDate>Sat, 24 Feb 2024 15:38:57 -0600</pubDate>
+      <guid>http://localhost:1313/my-fourth-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/my-second-post/</link>
+      <pubDate>Sat, 24 Feb 2024 15:37:12 -0600</pubDate>
+      <guid>http://localhost:1313/my-second-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
