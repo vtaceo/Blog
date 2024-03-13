@@ -3,11 +3,11 @@ title = 'Exploring Urban Green Spaces'
 date = 2023-04-09T15:38:42-06:00
 draft = false
 description = "A Breath of Fresh Air in the City"
-image = "/images/urban-green-spaces.jpg"
-imageBig = "/images/urban-green-spaces.jpg"
+image = "https://vtaceo.github.io/Blog/images/urban-green-spaces.jpg"
+imageBig = "https://vtaceo.github.io/Blog/images/urban-green-spaces.jpg"
 categories = ["life", "outdoors"]
 authors = ["Julia Rodriguez"]
-avatar = "/images/about.jpg"
+avatar = "https://vtaceo.github.io/Blog/images/about.jpg"
 +++
 
 

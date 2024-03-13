@@ -3,11 +3,11 @@ title = 'Mindful Movement'
 date = 2023-06-03T15:39:13-06:00
 draft = false
 description = "A Holistic Approach to Fitness"
-image = "/images/fitness.jpg"
-imageBig = "/images/fitness.jpg"
+image = "https://vtaceo.github.io/Blog/images/fitness.jpg"
+imageBig = "https://vtaceo.github.io/Blog/images/fitness.jpg"
 categories = ["life", "fitness"]
 authors = ["Julia Rodriguez"]
-avatar = "/images/about.jpg"
+avatar = "https://vtaceo.github.io/Blog/images/about.jpg"
 +++
 
 

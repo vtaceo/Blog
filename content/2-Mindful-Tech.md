@@ -3,11 +3,11 @@ title = 'Mindful Tech'
 date = 2023-03-15T15:37:12-06:00
 draft = false
 description = "Navigating the Digital Landscape with Intention"
-image = "/images/mindful-tech.jpg"
-imageBig = "/images/mindful-tech.jpg"
+image = "https://vtaceo.github.io/Blog/images/mindful-tech.jpg"
+imageBig = "https://vtaceo.github.io/Blog/images/mindful-tech.jpg"
 categories = ["life", "tech"]
 authors = ["Julia Rodgriquez"]
-avatar = "/images/about.jpg"
+avatar = "https://vtaceo.github.io/Blog/images/about.jpg"
 +++
 
 In an era dominated by technology, finding a balance between our digital lives and the need for mindfulness has become increasingly crucial. The concept of Mindful Tech encourages us to approach our interactions with technology with intention and awareness. In this blog post, we'll explore the principles of Mindful Tech and how cultivating a conscious relationship with our digital devices can enhance our overall well-being.

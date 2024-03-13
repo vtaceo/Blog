@@ -3,11 +3,11 @@ title = 'Hydration Habits'
 date = 2023-10-20T15:39:13-06:00
 draft = false
 description = "Nourishing Your Body from the Inside Out"
-image = "/images/water.jpg"
-imageBig = "/images/water.jpg"
+image = "https://vtaceo.github.io/Blog/images/water.jpg"
+imageBig = "https://vtaceo.github.io/Blog/images/water.jpg"
 categories = ["life", "habits"]
 authors = ["Julia Rodriguez"]
-avatar = "/images/about.jpg"
+avatar = "https://vtaceo.github.io/Blog/images/about.jpg"
 +++
 
 

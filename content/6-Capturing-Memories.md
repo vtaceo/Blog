@@ -3,11 +3,11 @@ title = 'Capturing Memories'
 date = 2023-08-11T15:39:13-06:00
 draft = false
 description = "The Art of Journaling"
-image = "/images/memories.jpg"
-imageBig = "/images/memories.jpg"
+image = "https://vtaceo.github.io/Blog/images/memories.jpg"
+imageBig = "https://vtaceo.github.io/Blog/images/memories.jpg"
 categories = ["life", "journaling"]
 authors = ["Julia Rodriguez"]
-avatar = "/images/about.jpg"
+avatar = "https://vtaceo.github.io/Blog/images/about.jpg"
 +++
 
 

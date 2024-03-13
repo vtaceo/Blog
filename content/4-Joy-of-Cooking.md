@@ -3,11 +3,11 @@ title = 'Mindful Movement'
 date = 2023-05-19T15:38:57-06:00
 draft = false
 description = "A Holistic Approach to Fitness"
-image = "/images/cooking.jpg"
-imageBig = "/images/cooking.jpg"
+image = "https://vtaceo.github.io/Blog/images/cooking.jpg"
+imageBig = "https://vtaceo.github.io/Blog/images/cooking.jpg"
 categories = ["life", "cooking"]
 authors = ["Julia Rodriguez"]
-avatar = "/images/about.jpg"
+avatar = "https://vtaceo.github.io/Blog/images/about.jpg"
 +++
 
 In the hustle and bustle of our daily lives, finding moments of joy can be a challenge. However, there's a simple and delectable way to bring happiness into your life – through the art of cooking. In this blog post, we'll explore the profound joy that cooking can bring, from the rhythmic chopping of vegetables to the aromatic symphony of spices. Join us on a culinary journey that not only tantalizes the taste buds but also nourishes the soul.

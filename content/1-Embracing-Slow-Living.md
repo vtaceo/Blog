@@ -3,11 +3,11 @@ title = 'Embracing Slow Living'
 date = 2023-02-24T15:37:12-06:00
 draft = false
 description = "A Gentle Journey to Mindful Living"
-image = "/images/slow-living.jpg"
-imageBig = "/images/avatar.jpg"
+image = "https://vtaceo.github.io/Blog/images/slow-living.jpg"
+imageBig = "https://vtaceo.github.io/Blog/images/avatar.jpg"
 categories = ["life"]
 authors = ["Julia Rodriguez"]
-avatar = "/images/about.jpg"
+avatar = "https://vtaceo.github.io/Blog/images/about.jpg"
 +++
 
 In a world that often seems to be moving at an ever-accelerating pace, the concept of slow living has gained popularity as a counterbalance to the hustle and bustle of modern life. Embracing slow living is about intentionally slowing down, savoring the present moment, and finding joy in the simplicity of life. In this blog post, we'll explore the principles of slow living and discover how incorporating them into our daily lives can lead to a more fulfilling and meaningful existence.
